@@ -5,5 +5,6 @@
 <p>This is Jenkins tutorial page</p>
 <p>This is purpose for jenkins</p>
 <a href="about.jsp">About Page</a>
+<a href="services.jsp">Service Page</a>
 </body>
 </html>
